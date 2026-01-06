@@ -1,2 +1,2 @@
-# wunder_rnn_jan_2026
+# Wunder RNN Competition Jan 2026
 Wunder RNN Competition
